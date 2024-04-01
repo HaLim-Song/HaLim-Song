@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&theme=dark)
+![header](https://capsule-render.vercel.app/api?type=Waving&theme=merko)
