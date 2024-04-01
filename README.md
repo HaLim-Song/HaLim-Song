@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=Waving&theme=gruvbox)
