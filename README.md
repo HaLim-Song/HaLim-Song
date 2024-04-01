@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=1)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=0)
